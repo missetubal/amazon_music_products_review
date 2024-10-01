@@ -1,8 +1,8 @@
-# Análise de Sentimentos de Avaliações de Instrumentos Musicais
+# Análise de Sentimentos de Avaliações de Produtos Musicais da Amazon
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo classificar análises de produtos de instrumentos musicais em positivas ou negativas. Utilizamos técnicas de aprendizado de máquina, incluindo redes neurais convolucionais (CNN) e redes neurais recorrentes (LSTM), para entender melhor as opiniões dos clientes e oferecer insights valiosos para fabricantes e consumidores.
+Este projeto tem como objetivo classificar análises de produtos musicais em positivas ou negativas. Foi utilizado técnicas de aprendizado de máquina, incluindo redes neurais convolucionais (CNN) e redes neurais recorrentes (LSTM), para entender melhor as opiniões dos clientes e oferecer insights valiosos para fabricantes e consumidores.
 
 ## Contexto do Problema
 
